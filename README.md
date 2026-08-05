@@ -4,8 +4,6 @@ An eat and grow arcade game in the spirit of Tasty Planet. You swallow everythin
 
 **[Trailer](https://youtu.be/5Ti2gLjg3hk)**
 
-> screenshot or gameplay gif goes here
-
 ## What is in it
 
 **Mass is the only stat.** Everything the player eats adds to a single mass value, and that value decides what can be eaten next, how large the player renders, and how the camera pulls back. `WBP_PlayerMass` shows it, `EasyScale_MS` handles the scaling.
